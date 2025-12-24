@@ -20,7 +20,7 @@
   🌻
 </div>
 
-# <img src="./docs/scau_files/logo_green.svg" height="100px"> 
+# <img src="./picture/logo_green.svg" height="100px"> 
 
 ---
 
