@@ -1,6 +1,6 @@
 # 欢迎使用华南农业大学学习资料库
 
-“本资料库用于整理华南农业大学历年课程资料，仅供学习交流使用。
+“本资料库用于整理华南农业大学历年课程资料，仅供学习交流使用"
 
 ---
 
@@ -37,6 +37,6 @@
 ---
 
 <p style="text-align: center; color: #777; margin-top: 50px; font-size: 0.9rem;">
-    版权声明： 网站由刘嘉俊 "nicolesandwich@outlook" 独立完成<br>
+    版权声明： 网站由如月风铃 "nicolesandwich@outlook" 独立完成<br>
     一切学习资料均来源于华南农业大学公开资料，若有侵权请告知，立即删除
 </p>
