@@ -28,6 +28,13 @@
             { "title": "概率论与数理统计", "mdPath": "docs/probability&statistics.md" },
             { "title": "草稿", "mdPath": "docs/draft.md", "visible": false }
         ]
+    },
+        {
+        "caption": "其他资料",
+        "items": [
+            { "title": "传送们：其他学校资料", "mdPath": "docs/other-school.md" },
+            { "title": "Rust编程语言", "mdPath": "docs/rust.md" }
+        ]
     }
 ]
 }
